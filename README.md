@@ -1,5 +1,5 @@
 # MHPro: Multi-Hypothesis Probabilistic Modeling for Human Mesh Recovery
-[[Project]](http://cic.tju.edu.cn/faculty/likun/projects/MHPro/) [[Paper]]https://...) [[Video]](https://...)
+[[Project]](http://cic.tju.edu.cn/faculty/likun/projects/MHPro/) [[Paper]](https://...) [[Video]](https://...)
 
 Coming Soon
 
