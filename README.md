@@ -5,23 +5,32 @@ Coming Soon
 
 ---
 
-### Install
+## Dependencies
 
-### Demo
+Requirements:
+...
 
-### Training and Testing
+## Install
 
-#### Training
+## Demo
 
-#### Testing
+## Training and Testing
 
-### Citation
+### Training
+
+### Testing
+
+## Citation
 If you find this code useful, please cite our work with the following bibtex:
 ```
 @article{xuan2022cicai,
   author = {Haibiao Xuan and Jinsong Zhang and Kun Li},
   title = {MHPro: Multi-Hypothesis Probabilistic Modeling for Human Mesh Recovery},
   booktitle = {Proceedings of the the CAAI International Conference on Artificial Intelligence (CICAI)},
-  year={2022},
+  year={2022}
 }
 ```
+
+## Acknowledgement
+
+## License
