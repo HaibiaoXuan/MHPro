@@ -15,7 +15,7 @@ Requirements:
 - Pytorch
 - trimesh
 - open3d
-...
+- ...
 
 ## Install
 
