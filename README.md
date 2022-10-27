@@ -3,6 +3,8 @@
 
 Coming Soon
 
+![Image text](resource/fig1.png)
+
 ---
 
 ## Dependencies
