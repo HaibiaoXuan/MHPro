@@ -1,5 +1,5 @@
 # MHPro: Multi-Hypothesis Probabilistic Modeling for Human Mesh Recovery
-[[Project]](http://cic.tju.edu.cn/faculty/likun/projects/MHPro/) [[Paper]](https://...) [[Video]](https://...)
+### [Project Page](http://cic.tju.edu.cn/faculty/likun/projects/MHPro/)  | [Paper](http://cic.tju.edu.cn/faculty/likun/projects/MHPro/imgs/CICAI_MHPro.pdf) | [Video](http://cic.tju.edu.cn/faculty/likun/projects/MHPro/)
 
 Coming Soon
 
@@ -11,6 +11,13 @@ Requirements:
 ...
 
 ## Install
+
+```
+conda create -n NHPro python=3.6
+conda install pytorch==1.7.0 torchvision==0.8.0 cudatoolkit=11.0 -c pytorch
+or conda install pytorch==1.6.0 torchvision==0.7.0 cudatoolkit=10.2 -c pytorch
+pip install -r requirements.txt
+```
 
 ## Demo
 
