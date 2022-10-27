@@ -10,12 +10,17 @@ Coming Soon
 ## Dependencies
 
 Requirements:
+- python3.6
+- pytorch==1.1.0
+- Pytorch
+- trimesh
+- open3d
 ...
 
 ## Install
 
 ```
-conda create -n NHPro python=3.6
+conda create -n MHPro python=3.6
 conda install pytorch==1.7.0 torchvision==0.8.0 cudatoolkit=11.0 -c pytorch
 or conda install pytorch==1.6.0 torchvision==0.7.0 cudatoolkit=10.2 -c pytorch
 pip install -r requirements.txt
