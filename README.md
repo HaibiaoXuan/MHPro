@@ -6,9 +6,6 @@ Coming Soon
 ---
 
 ## Dependencies
-python - 3.6
-pytorch - 1.12
-
 
 Requirements:
 ...
